@@ -1,0 +1,37 @@
+Travel Agent: Hi sir, you gave a call regarding the booking of yours to Jaipur.
+
+Customer: Yes, please.
+
+Travel Agent: Sir, I would like to tell you that we have recently prepared an amazing package for that.
+
+Customer: Could you please tell me the details of that package?
+
+Travel Agent: Sure sir. In that package, you will get 4 nights and 3 days. Breakfast for 3 days is complimentary in this, and the complete package is for 15000/-.
+
+Customer: That’s great!
+
+Travel Agent: So sir, when are you planning to go?
+
+Customer: As you know, I was planning earlier but couldn’t go due to a reason but now as you have an amazing package and I am also free so I am planning to go within this week only.
+
+Travel Agent: That’s perfectly ok sir!
+
+Customer: This package is valid till when?
+
+Travel Agent: For a month.
+
+Customer: Great. What are all formalities needed to be done?
+
+Travel Agent: Sir for booking this package you have to pay 2500/- with a copy of your id proof and photograph.
+
+Customer: Sure, no problem. How can I make the payment?
+
+Travel Agent: You can pay by card, cash or cheque.
+
+Customer: But for that, I need to visit your office. Is it possible that I can pay online and WhatsApp you my details?
+
+Travel Agent: Sure sir, you can do that as well.
+
+Customer: Just send me your account details and your WhatsApp number.
+
+Travel Agent: Ok!
